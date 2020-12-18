@@ -17,7 +17,7 @@ const Page: NextPage = () => {
             <li>・thdy (@thdy5, <a href="https://twitter.com/thdy5">Twitter</a>)</li>
             <li>・加来 慎太郎 (Shintaro Kaku, <a href="https://www.linkedin.com/in/shintaro-kaku-975b59a8/">LinkedIn</a>)</li>
             <li>・広島在住のリモートワーカー</li>
-            <li>・Japan Okta User Group 運営 (<a href="https://okta.connpass.com/"></a>JOUG)</li>
+            <li>・Japan Okta User Group 運営 (<a href="https://okta.connpass.com/">JOUG</a>)</li>
             <li>・プロダクト開発、サポートエンジニアを経て情シス/コーポレートエンジニアとして活動中</li>
             <li>・<a href="https://zenn.dev/thdy/">Zenn.dev</a></li>
             <li>・<a href="https://note.com/thdy/">note</a></li>
