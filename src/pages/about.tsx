@@ -10,9 +10,7 @@ const Page: NextPage = () => {
       <ContentWrapper>
         <section className="about">
           <h1 className="about__title">About me</h1>
-          <section className="home-members">
-            <img src="thdy.jpg" alt="thdy" title="thdy">
-          </section>
+          <img src="thdy.jpg">
           <div className="about__body">
             <p>
               ・thdy (@thdy5, <a href="https://twitter.com/thdy5">Twitter</a>)
