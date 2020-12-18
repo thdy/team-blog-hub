@@ -11,13 +11,7 @@ const Page: NextPage = () => {
         <section className="about">
           <h1 className="about__title">About me</h1>
           <section className="home-members">
-            <ContentWrapper>
-              <div className="home-members-container">
-                <UndoWrapForScroll>
-                  <ScrollableMembers />
-                </UndoWrapForScroll>
-              </div>
-            </ContentWrapper>
+            <img src="thdy.jpg" alt="thdy" title="thdy">
           </section>
           <div className="about__body">
             <p>
