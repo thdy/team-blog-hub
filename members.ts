@@ -5,7 +5,7 @@ export const members: Member[] = [
     name: "thdy",
     role: "Corporate Engineer",
     bio:
-      "広島在住のリモートワーカーです。",
+      "広島在住のリモートワーカーです",
     avatarSrc: "/avatars/thdy.jpg",
     sources: [
       "https://zenn.dev/thdy/feed",
