@@ -14,7 +14,7 @@ export const members: Member[] = [
       "https://thdy.hatenablog.jp/rss"
     ],
     includeUrlRegex: "zenn.dev|note.com|qiita.com|hatenablog.jp",
-    twitterUsername: "thdy5",
+    twitterUsername: "thdy_jp",
     githubUsername: "thdy",
     websiteUrl: "https://thdy.jp",
   },
